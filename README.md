@@ -7,7 +7,7 @@ Users are first brought to a login/signup page which has not yet been designed.
 
 After logging in, Users are brought to the following level selection page:
 
-![level selection page](./levelSelect.jpg?raw=true)
+![level selection page](levelSelect.JPG)
 
 
 ###The Game
@@ -24,7 +24,7 @@ After selecting a level, users are brought to the main game page, which has thre
 	* Logical Propositions are represented as turtles, with the statement written on their shell
 	* Players must navigate from the assumption turtles at the top to the conclusion turtles at the bottom with a series of assertions (new turtles)
 	* Takes up the right third(ish) of the screen
-![game overview](./gameOverview.jpg?raw=true)
+![game overview](gameOverview.JPG)
 
 ###The Universe
 * The universe is divided into a section for stets, represented as boxes, and elements (non-sets), represented as various animals
@@ -46,8 +46,8 @@ After selecting a level, users are brought to the main game page, which has thre
 	* Hovering on a set displays green lines to all elements (and sets) that are known to be contained in the hovered set, and red lines to all elements and sets known not to be in the hovered set
 * Hovering an element displays green lines to all sets known to contain it, and red lines to all sets known not to contain it
 * Two sketches of the universe:
-![Universe Set Close Up](./universeSet.jpg?raw=true)
-![Universe Element Close Up](./universeElement.jpg?raw=true)
+![Universe Set Close Up](universeSet.JPG)
+![Universe Element Close Up](universeElement.JPG)
 
 ###The Turtle Map
 * The turtle map displays the logical structure of the proof
@@ -57,7 +57,7 @@ After selecting a level, users are brought to the main game page, which has thre
 		* The user must make assertions (new turtles) to bridge the gap from the assumptions, to the conclusion
 
 Here is a sketch of the logical structure of a proof of the claim: A U B = B U A:
-![Proof Structure](./proofStructure.jpg?raw=true)
+![Proof Structure](proofStructure.JPG)
 
 And Here is the equivalent structure where the assumptions are reduced to points (these will be turtles in the actual map, with the propositions written on the shells)
-![Turtle Map](./turtleMap.jpg?raw=true)
+![Turtle Map](turtleMap.JPG)
